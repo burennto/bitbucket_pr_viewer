@@ -1,5 +1,5 @@
-bitbucket_pull_requests
-=======================
+bitbucket_pr_viewer
+===================
 
 Trivial Ruby script to list Pull Requests in Bitbucket.
 
